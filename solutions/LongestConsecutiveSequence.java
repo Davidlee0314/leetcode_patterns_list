@@ -3,6 +3,7 @@ class Solution {
         /*
         We use a hashmap to store the number map length relationship. Then, for each number, we
         find the length of their neighbors, and update the boundary with the newest longest length.
+        time O(n) space O(n)
         */
         int n = nums.length, res = 0;
         HashMap<Integer, Integer> map = new HashMap<>();
