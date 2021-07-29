@@ -3,4 +3,5 @@ This repo records my solutions in leetcode practice process. Also, I organize th
 
 # Solution Table
 | ID | Question | Solution | Difficulty |
-| --- | --- | --- | --- |
+| -- | -------- | -------- | ---------- |
+| 53 | Maximum Subarray | [Java](solutions/MaximumSubarray.java) | Easy |
