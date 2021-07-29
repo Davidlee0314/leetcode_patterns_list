@@ -2,7 +2,13 @@
 This repo records my solutions in leetcode practice process. Also, I organize the patterns out to structurize my understanding.
 
 ## Patterns
-- [Kadane's Algorithm](#kadanes-algorithm)
+  - [Hash Table](#hash-table)
+  - [Kadane's Algorithm](#kadanes-algorithm)
+
+## Hash Table
+| ID | Question | Solution | Difficulty |
+| -- | -------- | -------- | ---------- |
+| 128 | Longest Consecutive Sequence | [Java](solutions/LongestConsecutiveSequence.java) | Medium |
 
 ## Kadane's Algorithm
 | ID | Question | Solution | Difficulty |
