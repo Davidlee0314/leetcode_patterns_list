@@ -4,12 +4,18 @@ This repo records my solutions in leetcode practice process. Also, I organize th
 ## Patterns
   - [Hash Table](#hash-table)
   - [DFS and BFS](#dfs-and-bfs)
+  - [Graph](#graph)
   - [Kadane's Algorithm](#kadanes-algorithm)
 
 ## DFS and BFS
 | ID | Question | Solution | Difficulty |
 | -- | -------- | -------- | ---------- |
 | 130 | Surrounded Regions | [Java](solutions/SurroundedRegions.java) | Medium |
+
+## Graph
+| ID | Question | Solution | Difficulty |
+| -- | -------- | -------- | ---------- |
+| ID | Evaluate Division | [Java](solutions/EvaluateDivision.java) | Medium |
 
 ## Hash Table
 | ID | Question | Solution | Difficulty |
