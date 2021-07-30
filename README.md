@@ -12,6 +12,7 @@ This repo records my solutions in leetcode practice process. Also, I organize th
 | ID | Question | Solution | Difficulty |
 | -- | -------- | -------- | ---------- |
 | 130 | Surrounded Regions | [Java](solutions/SurroundedRegions.java) | Medium |
+| 684 | Redundant Connection | [Java](solutions/RedundantConnection_DFS.java) | Medium |
 
 ## Graph
 | ID | Question | Solution | Difficulty |
@@ -26,7 +27,7 @@ This repo records my solutions in leetcode practice process. Also, I organize th
 ## Union Find 
 | ID | Question | Solution | Difficulty |
 | -- | -------- | -------- | ---------- |
-| 684 | Redundant Connection | [Java](solutions/RedundantConnection.java) | Medium |
+| 684 | Redundant Connection | [Java](solutions/RedundantConnection_UF.java) | Medium |
 
 ## Kadane's Algorithm
 | ID | Question | Solution | Difficulty |
