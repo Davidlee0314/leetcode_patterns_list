@@ -3,7 +3,13 @@ This repo records my solutions in leetcode practice process. Also, I organize th
 
 ## Patterns
   - [Hash Table](#hash-table)
+  - [DFS and BFS](#dfs-and-bfs)
   - [Kadane's Algorithm](#kadanes-algorithm)
+
+## DFS and BFS
+| ID | Question | Solution | Difficulty |
+| -- | -------- | -------- | ---------- |
+| 130 | Surrounded Regions | [Java](solutions/SurroundedRegions.java) | Medium |
 
 ## Hash Table
 | ID | Question | Solution | Difficulty |
