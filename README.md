@@ -2,9 +2,10 @@
 This repo records my solutions in leetcode practice process. Also, I organize the patterns out to structurize my understanding.
 
 ## Patterns
-  - [Hash Table](#hash-table)
   - [DFS and BFS](#dfs-and-bfs)
   - [Graph](#graph)
+  - [Hash Table](#hash-table)
+  - [Union Find](#union-find)
   - [Kadane's Algorithm](#kadanes-algorithm)
 
 ## DFS and BFS
@@ -21,6 +22,11 @@ This repo records my solutions in leetcode practice process. Also, I organize th
 | ID | Question | Solution | Difficulty |
 | -- | -------- | -------- | ---------- |
 | 128 | Longest Consecutive Sequence | [Java](solutions/LongestConsecutiveSequence.java) | Medium |
+
+## Union Find 
+| ID | Question | Solution | Difficulty |
+| -- | -------- | -------- | ---------- |
+| 684 | Redundant Connection | [Java](solutions/RedundantConnection.java) | Medium |
 
 ## Kadane's Algorithm
 | ID | Question | Solution | Difficulty |
