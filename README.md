@@ -28,6 +28,7 @@ This repo records my solutions in leetcode practice process. Also, I organize th
 | ID | Question | Solution | Difficulty |
 | -- | -------- | -------- | ---------- |
 | 684 | Redundant Connection | [Java](solutions/RedundantConnection_UF.java) | Medium |
+| 685 | Redundant Connection II | [Java](solutions/RedundantConnectionII.java) | Hard |
 
 ## Kadane's Algorithm
 | ID | Question | Solution | Difficulty |
