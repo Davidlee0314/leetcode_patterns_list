@@ -13,6 +13,7 @@ This repo records my solutions in leetcode practice process. Also, I organize th
 | ID | Question | Solution | Difficulty |
 | -- | -------- | -------- | ---------- |
 | 33 | Search in Rotated Sorted Array | [Java](solutions/SearchinRotatedSortedArray.java) | Medium |
+| 34 | Find First and Last Position of Element in Sorted Array | [Java](solutions/FindFirstandLastPositionofElementinSortedArray.java) | Medium |
 
 ## DFS and BFS
 | ID | Question | Solution | Difficulty |
