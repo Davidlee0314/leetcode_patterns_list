@@ -12,6 +12,7 @@ This repo records my solutions in leetcode practice process. Also, I organize th
 # Binary Search
 | ID | Question | Solution | Difficulty |
 | -- | -------- | -------- | ---------- |
+| 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Java](solutions/MedianofTwoSortedArrays.java) | Hard |
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Java](solutions/SearchinRotatedSortedArray.java) | Medium |
 | 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Java](solutions/FindFirstandLastPositionofElementinSortedArray.java) | Medium |
 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Java](solutions/Searcha2DMatrix.java) | Medium |
