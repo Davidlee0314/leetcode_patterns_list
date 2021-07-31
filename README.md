@@ -16,6 +16,7 @@ This repo records my solutions in leetcode practice process. Also, I organize th
 | 34 | Find First and Last Position of Element in Sorted Array | [Java](solutions/FindFirstandLastPositionofElementinSortedArray.java) | Medium |
 | 74 | Search a 2D Matrix | [Java](solutions/Searcha2DMatrix.java) | Medium |
 | 81 | Search in Rotated Sorted Array II | [Java](solutions/SearchinRotatedSortedArrayII.java) | Medium |
+| 153 | Find Minimum in Rotated Sorted Array | [Java](solutions/FindMinimuminRotatedSortedArray.java) | Medium | 
 
 ## DFS and BFS
 | ID | Question | Solution | Difficulty |
