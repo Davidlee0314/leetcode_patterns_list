@@ -17,6 +17,7 @@ This repo records my solutions in leetcode practice process. Also, I organize th
 | 74 | Search a 2D Matrix | [Java](solutions/Searcha2DMatrix.java) | Medium |
 | 81 | Search in Rotated Sorted Array II | [Java](solutions/SearchinRotatedSortedArrayII.java) | Medium |
 | 153 | Find Minimum in Rotated Sorted Array | [Java](solutions/FindMinimuminRotatedSortedArray.java) | Medium | 
+| 154 | Find Minimum in Rotated Sorted Array II | [Java](solutions/FindMinimuminRotatedSortedArrayII.java) | Hard | 
 
 ## DFS and BFS
 | ID | Question | Solution | Difficulty |
