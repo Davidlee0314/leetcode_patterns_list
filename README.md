@@ -2,11 +2,17 @@
 This repo records my solutions in leetcode practice process. Also, I organize the patterns out to structurize my understanding.
 
 ## Patterns
+  - [Binary Search](#binary-search)
   - [DFS and BFS](#dfs-and-bfs)
   - [Graph](#graph)
   - [Hash Table](#hash-table)
   - [Union Find](#union-find)
   - [Kadane's Algorithm](#kadanes-algorithm)
+
+# Binary Search
+| ID | Question | Solution | Difficulty |
+| -- | -------- | -------- | ---------- |
+| 33 | Search in Rotated Sorted Array | [Java](solutions/SearchinRotatedSortedArray.java) | Medium |
 
 ## DFS and BFS
 | ID | Question | Solution | Difficulty |
