@@ -18,7 +18,8 @@ This repo records my solutions in leetcode practice process. Also, I organize th
 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Java](solutions/Searcha2DMatrix.java) | Medium |
 | 81 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [Java](solutions/SearchinRotatedSortedArrayII.java) | Medium |
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Java](solutions/FindMinimuminRotatedSortedArray.java) | Medium | 
-| 154 | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [Java](solutions/FindMinimuminRotatedSortedArrayII.java) | Hard | 
+| 154 | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [Java](solutions/FindMinimuminRotatedSortedArrayII.java) | Hard |
+| 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [Java](solutions/FindPeakElement.java) | Medium |
 
 ## DFS and BFS
 | ID | Question | Solution | Difficulty |
