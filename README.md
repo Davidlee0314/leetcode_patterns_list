@@ -2,6 +2,7 @@
 This repo records my solutions in leetcode practice process. Also, I organize the patterns out to structurize my understanding.
 
 ## Patterns
+  - [Sliding Window](#sliding-window)
   - [Binary Search](#binary-search)
   - [DFS and BFS](#dfs-and-bfs)
   - [Graph](#graph)
@@ -9,7 +10,12 @@ This repo records my solutions in leetcode practice process. Also, I organize th
   - [Union Find](#union-find)
   - [Kadane's Algorithm](#kadanes-algorithm)
 
-# Binary Search
+## Sliding Window
+| ID | Question | Solution | Difficulty |
+| -- | -------- | -------- | ---------- |
+| 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [Java](solutions/MinimumSizeSubarraySum_SW.java) | Medium | 
+
+## Binary Search
 | ID | Question | Solution | Difficulty |
 | -- | -------- | -------- | ---------- |
 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Java](solutions/MedianofTwoSortedArrays.java) | Hard |
@@ -20,6 +26,7 @@ This repo records my solutions in leetcode practice process. Also, I organize th
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Java](solutions/FindMinimuminRotatedSortedArray.java) | Medium | 
 | 154 | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [Java](solutions/FindMinimuminRotatedSortedArrayII.java) | Hard |
 | 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [Java](solutions/FindPeakElement.java) | Medium |
+| 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [Java](solutions/MinimumSizeSubarraySum_BS.java) | Medium | 
 
 ## DFS and BFS
 | ID | Question | Solution | Difficulty |
