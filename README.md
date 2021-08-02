@@ -9,7 +9,8 @@ This repo records my solutions in leetcode practice process. Also, I organize th
   - [Dynamic Programming](#dynamic-programming)
   - [DFS and BFS](#dfs-and-bfs)
   - [Graph](#graph)
-  - [Hash Table](#hash-table)
+  - [Hash Table and Set](#hash-table-and-set)
+  - [Tree Map and Set](#tree-map-and-set)
   - [Priority Queue](#priority-queue)
   - [Union Find](#union-find)
   - [Kadane's Algorithm](#kadanes-algorithm)
@@ -17,7 +18,8 @@ This repo records my solutions in leetcode practice process. Also, I organize th
 ## Sliding Window
 | ID | Question | Solution | Difficulty |
 | -- | -------- | -------- | ---------- |
-| 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [Java](solutions/MinimumSizeSubarraySum_SW.java) | Medium | 
+| 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [Java](solutions/MinimumSizeSubarraySum_SW.java) | Medium |
+| 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [Java](solutions/SlidingWindowMaximum_SW.java) | Hard | 
 
 ## Binary Search
 | ID | Question | Solution | Difficulty |
@@ -59,10 +61,15 @@ This repo records my solutions in leetcode practice process. Also, I organize th
 | -- | -------- | -------- | ---------- |
 | 399 | [Evaluate Division](https://leetcode.com/problems/evaluate-division/) | [Java](solutions/EvaluateDivision.java) | Medium |
 
-## Hash Table
+## Hash Table and Set
 | ID | Question | Solution | Difficulty |
 | -- | -------- | -------- | ---------- |
 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/solution/) | [Java](solutions/LongestConsecutiveSequence.java) | Medium |
+
+## Tree Map and Set
+| ID | Question | Solution | Difficulty |
+| -- | -------- | -------- | ---------- |
+| 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [Java](solutions/SlidingWindowMaximum_TMS.java) | Hard |
 
 ## Priority Queue
 | ID | Question | Solution | Difficulty |
