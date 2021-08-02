@@ -32,7 +32,7 @@ This repo records my solutions in leetcode practice process. Also, I organize th
 | ID | Question | Solution | Difficulty |
 | -- | -------- | -------- | ---------- |
 | 130 | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | [Java](solutions/SurroundedRegions.java) | Medium |
-| 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Java](solutions/NumberOfIslands_BFS.java) | Medium |
+| 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Java](solutions/NumberofIslands_BFS.java) | Medium |
 | 684 | [Redundant Connection](https://leetcode.com/problems/redundant-connection/) | [Java](solutions/RedundantConnection_DFS.java) | Medium |
 
 ## Graph
@@ -48,7 +48,7 @@ This repo records my solutions in leetcode practice process. Also, I organize th
 ## Union Find 
 | ID | Question | Solution | Difficulty |
 | -- | -------- | -------- | ---------- |
-| 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Java](solutions/NumberOfIslands_UF.java) | Medium |
+| 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Java](solutions/NumberofIslands_UF.java) | Medium |
 | 684 | [Redundant Connection](https://leetcode.com/problems/redundant-connection/) | [Java](solutions/RedundantConnection_UF.java) | Medium |
 | 685 | [Redundant Connection II](https://leetcode.com/problems/redundant-connection-ii/) | [Java](solutions/RedundantConnectionII.java) | Hard |
 
