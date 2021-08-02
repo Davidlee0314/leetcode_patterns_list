@@ -5,6 +5,7 @@ This repo records my solutions in leetcode practice process. Also, I organize th
   - [Sliding Window](#sliding-window)
   - [Binary Search](#binary-search)
   - [Divide and Conquer](#divide-and-conquer)
+  - [Quick Select](#quick-select)
   - [DFS and BFS](#dfs-and-bfs)
   - [Graph](#graph)
   - [Hash Table](#hash-table)
@@ -34,6 +35,11 @@ This repo records my solutions in leetcode practice process. Also, I organize th
 | -- | -------- | -------- | ---------- |
 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Java](solutions/MedianofTwoSortedArrays.java) | Hard |
 | 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Java](solutions/MergekSortedLists_D&C.java) | Hard |
+
+## Quick Select
+| ID | Question | Solution | Difficulty |
+| -- | -------- | -------- | ---------- |
+| 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Java](solutions/KthLargestElementinanArray.java) | Medium |
 
 ## DFS and BFS
 | ID | Question | Solution | Difficulty |
