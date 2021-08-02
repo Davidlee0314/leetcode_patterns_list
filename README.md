@@ -4,9 +4,11 @@ This repo records my solutions in leetcode practice process. Also, I organize th
 ## Patterns
   - [Sliding Window](#sliding-window)
   - [Binary Search](#binary-search)
+  - [Divide and Conquer](#divide-and-conquer)
   - [DFS and BFS](#dfs-and-bfs)
   - [Graph](#graph)
   - [Hash Table](#hash-table)
+  - [Priority Queue](#priority-queue)
   - [Union Find](#union-find)
   - [Kadane's Algorithm](#kadanes-algorithm)
 
@@ -18,7 +20,6 @@ This repo records my solutions in leetcode practice process. Also, I organize th
 ## Binary Search
 | ID | Question | Solution | Difficulty |
 | -- | -------- | -------- | ---------- |
-| 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Java](solutions/MedianofTwoSortedArrays.java) | Hard |
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Java](solutions/SearchinRotatedSortedArray.java) | Medium |
 | 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Java](solutions/FindFirstandLastPositionofElementinSortedArray.java) | Medium |
 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Java](solutions/Searcha2DMatrix.java) | Medium |
@@ -27,6 +28,12 @@ This repo records my solutions in leetcode practice process. Also, I organize th
 | 154 | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [Java](solutions/FindMinimuminRotatedSortedArrayII.java) | Hard |
 | 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [Java](solutions/FindPeakElement.java) | Medium |
 | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [Java](solutions/MinimumSizeSubarraySum_BS.java) | Medium | 
+
+## Divide and Conquer
+| ID | Question | Solution | Difficulty |
+| -- | -------- | -------- | ---------- |
+| 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Java](solutions/MedianofTwoSortedArrays.java) | Hard |
+| 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Java](solutions/MergekSortedLists_D&C.java) | Hard |
 
 ## DFS and BFS
 | ID | Question | Solution | Difficulty |
@@ -44,6 +51,11 @@ This repo records my solutions in leetcode practice process. Also, I organize th
 | ID | Question | Solution | Difficulty |
 | -- | -------- | -------- | ---------- |
 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/solution/) | [Java](solutions/LongestConsecutiveSequence.java) | Medium |
+
+## Priority Queue
+| ID | Question | Solution | Difficulty |
+| -- | -------- | -------- | ---------- |
+| 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Java](solutions/MergekSortedLists_PQ.java) | Hard | 
 
 ## Union Find 
 | ID | Question | Solution | Difficulty |
