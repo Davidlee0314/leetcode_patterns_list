@@ -6,6 +6,7 @@ This repo records my solutions in leetcode practice process. Also, I organize th
   - [Binary Search](#binary-search)
   - [Divide and Conquer](#divide-and-conquer)
   - [Quick Select](#quick-select)
+  - [Dynamic Programming](#dynamic-programming)
   - [DFS and BFS](#dfs-and-bfs)
   - [Graph](#graph)
   - [Hash Table](#hash-table)
@@ -40,6 +41,11 @@ This repo records my solutions in leetcode practice process. Also, I organize th
 | ID | Question | Solution | Difficulty |
 | -- | -------- | -------- | ---------- |
 | 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Java](solutions/KthLargestElementinanArray.java) | Medium |
+
+## Dynamic Programming
+| ID | Question | Solution | Difficulty |
+| -- | -------- | -------- | ---------- |
+| 264 | [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) | [Java](solutions/UglyNumberII.java) | Medium |
 
 ## DFS and BFS
 | ID | Question | Solution | Difficulty |
