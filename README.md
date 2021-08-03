@@ -10,6 +10,7 @@ This repo records my solutions in leetcode practice process. Also, I organize th
   - [Graph](#graph)
   - [Hash Table and Set](#hash-table-and-set)
   - [Kadane's Algorithm](#kadanes-algorithm)
+  - [Object Oriented Design]()
   - [Priority Queue](#priority-queue)
   - [Quick Select](#quick-select)
   - [Sliding Window](#sliding-window)
@@ -67,6 +68,11 @@ This repo records my solutions in leetcode practice process. Also, I organize th
 | -- | -------- | -------- | ---------- |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Java](solutions/MaximumSubarray.java) | Easy |
 | 1191 | [K-Concatenation Maximum Sum](https://leetcode.com/problems/k-concatenation-maximum-sum/) | [Java](solutions/KConcatenationMaximumSum.java) | Medium |
+
+## Object Oriented Design
+| ID | Question | Solution | Difficulty |
+| -- | -------- | -------- | ---------- |
+| 355 | [Design Twitter](https://leetcode.com/problems/design-twitter/) | [Java](solutions/DesignTwitter.java) | Medium |
 
 ## Priority Queue
 | ID | Question | Solution | Difficulty |
