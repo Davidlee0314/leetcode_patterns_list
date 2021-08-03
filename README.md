@@ -3,6 +3,7 @@ This repo records my solutions in leetcode practice process. Also, I organize th
 
 ## Patterns
   - [Binary Search](#binary-search)
+  - [Bucket Sort](#bucket-sort)
   - [DFS and BFS](#dfs-and-bfs)
   - [Divide and Conquer](#divide-and-conquer)
   - [Dynamic Programming](#dynamic-programming)
@@ -27,6 +28,10 @@ This repo records my solutions in leetcode practice process. Also, I organize th
 | 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [Java](solutions/FindPeakElement.java) | Medium |
 | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [Java](solutions/MinimumSizeSubarraySum_BS.java) | Medium | 
 
+## Bucket Sort
+| ID | Question | Solution | Difficulty |
+| -- | -------- | -------- | ---------- |
+| 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Java](solutions/TopKFrequentElements_BSort.java) | Medium |
 
 ## DFS and BFS
 | ID | Question | Solution | Difficulty |
@@ -68,6 +73,8 @@ This repo records my solutions in leetcode practice process. Also, I organize th
 | -- | -------- | -------- | ---------- |
 | 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Java](solutions/MergekSortedLists_PQ.java) | Hard |
 | 218 | [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/) | [Java](solutions/TheSkylineProblem.java) | Hard |
+| 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Java](solutions/TopKFrequentElements_PQ.java) | Medium |
+
 
 ## Quick Select
 | ID | Question | Solution | Difficulty |
