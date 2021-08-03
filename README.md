@@ -79,6 +79,7 @@ This repo records my solutions in leetcode practice process. Also, I organize th
 | -- | -------- | -------- | ---------- |
 | 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Java](solutions/MergekSortedLists_PQ.java) | Hard |
 | 218 | [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/) | [Java](solutions/TheSkylineProblem.java) | Hard |
+| 295 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | [Java](solutions/FindMedianfromDataStream.java) | Hard |
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Java](solutions/TopKFrequentElements_PQ.java) | Medium |
 
 
