@@ -2,24 +2,18 @@
 This repo records my solutions in leetcode practice process. Also, I organize the patterns out to structurize my understanding.
 
 ## Patterns
-  - [Sliding Window](#sliding-window)
   - [Binary Search](#binary-search)
-  - [Divide and Conquer](#divide-and-conquer)
-  - [Quick Select](#quick-select)
-  - [Dynamic Programming](#dynamic-programming)
   - [DFS and BFS](#dfs-and-bfs)
+  - [Divide and Conquer](#divide-and-conquer)
+  - [Dynamic Programming](#dynamic-programming)
   - [Graph](#graph)
   - [Hash Table and Set](#hash-table-and-set)
-  - [Tree Map and Set](#tree-map-and-set)
-  - [Priority Queue](#priority-queue)
-  - [Union Find](#union-find)
   - [Kadane's Algorithm](#kadanes-algorithm)
-
-## Sliding Window
-| ID | Question | Solution | Difficulty |
-| -- | -------- | -------- | ---------- |
-| 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [Java](solutions/MinimumSizeSubarraySum_SW.java) | Medium |
-| 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [Java](solutions/SlidingWindowMaximum_SW.java) | Hard | 
+  - [Priority Queue](#priority-queue)
+  - [Quick Select](#quick-select)
+  - [Sliding Window](#sliding-window)
+  - [Tree Map and Set](#tree-map-and-set)
+  - [Union Find](#union-find)
 
 ## Binary Search
 | ID | Question | Solution | Difficulty |
@@ -33,21 +27,6 @@ This repo records my solutions in leetcode practice process. Also, I organize th
 | 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [Java](solutions/FindPeakElement.java) | Medium |
 | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [Java](solutions/MinimumSizeSubarraySum_BS.java) | Medium | 
 
-## Divide and Conquer
-| ID | Question | Solution | Difficulty |
-| -- | -------- | -------- | ---------- |
-| 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Java](solutions/MedianofTwoSortedArrays.java) | Hard |
-| 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Java](solutions/MergekSortedLists_D&C.java) | Hard |
-
-## Quick Select
-| ID | Question | Solution | Difficulty |
-| -- | -------- | -------- | ---------- |
-| 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Java](solutions/KthLargestElementinanArray.java) | Medium |
-
-## Dynamic Programming
-| ID | Question | Solution | Difficulty |
-| -- | -------- | -------- | ---------- |
-| 264 | [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) | [Java](solutions/UglyNumberII.java) | Medium |
 
 ## DFS and BFS
 | ID | Question | Solution | Difficulty |
@@ -55,6 +34,18 @@ This repo records my solutions in leetcode practice process. Also, I organize th
 | 130 | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | [Java](solutions/SurroundedRegions.java) | Medium |
 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Java](solutions/NumberofIslands_BFS.java) | Medium |
 | 684 | [Redundant Connection](https://leetcode.com/problems/redundant-connection/) | [Java](solutions/RedundantConnection_DFS.java) | Medium |
+
+## Divide and Conquer
+| ID | Question | Solution | Difficulty |
+| -- | -------- | -------- | ---------- |
+| 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Java](solutions/MedianofTwoSortedArrays.java) | Hard |
+| 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Java](solutions/MergekSortedLists_D&C.java) | Hard |
+
+## Dynamic Programming
+| ID | Question | Solution | Difficulty |
+| -- | -------- | -------- | ---------- |
+| 264 | [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) | [Java](solutions/UglyNumberII.java) | Medium |
+| 313 | [Super Ugly Number](https://leetcode.com/problems/super-ugly-number/) | [Java](solutions/SuperUglyNumber.java) | Medium |
 
 ## Graph
 | ID | Question | Solution | Difficulty |
@@ -66,10 +57,11 @@ This repo records my solutions in leetcode practice process. Also, I organize th
 | -- | -------- | -------- | ---------- |
 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/solution/) | [Java](solutions/LongestConsecutiveSequence.java) | Medium |
 
-## Tree Map and Set
+## Kadane's Algorithm
 | ID | Question | Solution | Difficulty |
 | -- | -------- | -------- | ---------- |
-| 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [Java](solutions/SlidingWindowMaximum_TMS.java) | Hard |
+| 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Java](solutions/MaximumSubarray.java) | Easy |
+| 1191 | [K-Concatenation Maximum Sum](https://leetcode.com/problems/k-concatenation-maximum-sum/) | [Java](solutions/KConcatenationMaximumSum.java) | Medium |
 
 ## Priority Queue
 | ID | Question | Solution | Difficulty |
@@ -77,15 +69,25 @@ This repo records my solutions in leetcode practice process. Also, I organize th
 | 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Java](solutions/MergekSortedLists_PQ.java) | Hard |
 | 218 | [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/) | [Java](solutions/TheSkylineProblem.java) | Hard |
 
+## Quick Select
+| ID | Question | Solution | Difficulty |
+| -- | -------- | -------- | ---------- |
+| 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Java](solutions/KthLargestElementinanArray.java) | Medium |
+
+## Sliding Window
+| ID | Question | Solution | Difficulty |
+| -- | -------- | -------- | ---------- |
+| 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [Java](solutions/MinimumSizeSubarraySum_SW.java) | Medium |
+| 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [Java](solutions/SlidingWindowMaximum_SW.java) | Hard | 
+
+## Tree Map and Set
+| ID | Question | Solution | Difficulty |
+| -- | -------- | -------- | ---------- |
+| 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [Java](solutions/SlidingWindowMaximum_TMS.java) | Hard |
+
 ## Union Find 
 | ID | Question | Solution | Difficulty |
 | -- | -------- | -------- | ---------- |
 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Java](solutions/NumberofIslands_UF.java) | Medium |
 | 684 | [Redundant Connection](https://leetcode.com/problems/redundant-connection/) | [Java](solutions/RedundantConnection_UF.java) | Medium |
 | 685 | [Redundant Connection II](https://leetcode.com/problems/redundant-connection-ii/) | [Java](solutions/RedundantConnectionII.java) | Hard |
-
-## Kadane's Algorithm
-| ID | Question | Solution | Difficulty |
-| -- | -------- | -------- | ---------- |
-| 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Java](solutions/MaximumSubarray.java) | Easy |
-| 1191 | [K-Concatenation Maximum Sum](https://leetcode.com/problems/k-concatenation-maximum-sum/) | [Java](solutions/KConcatenationMaximumSum.java) | Medium |
