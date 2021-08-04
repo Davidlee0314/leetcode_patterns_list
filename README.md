@@ -101,6 +101,7 @@ This repo records my solutions in leetcode practice process. Also, I organize th
 | ID | Question | Solution | Difficulty |
 | -- | -------- | -------- | ---------- |
 | 208 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Java](solutions/ImplementTriePrefixTree.java) | Medium |
+| 211 | [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/) | [Java](solutions/DesignAddandSearchWordsDataStructure.java) | Medium |
 
 ## Tree Map and Set
 | ID | Question | Solution | Difficulty |
