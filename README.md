@@ -14,6 +14,7 @@ This repo records my solutions in leetcode practice process. Also, I organize th
   - [Priority Queue](#priority-queue)
   - [Quick Select](#quick-select)
   - [Sliding Window](#sliding-window)
+  - [Trie](#trie)
   - [Tree Map and Set](#tree-map-and-set)
   - [Union Find](#union-find)
 
@@ -95,6 +96,11 @@ This repo records my solutions in leetcode practice process. Also, I organize th
 | -- | -------- | -------- | ---------- |
 | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [Java](solutions/MinimumSizeSubarraySum_SW.java) | Medium |
 | 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [Java](solutions/SlidingWindowMaximum_SW.java) | Hard | 
+
+## Trie
+| ID | Question | Solution | Difficulty |
+| -- | -------- | -------- | ---------- |
+| 208 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Java](solutions/ImplementTriePrefixTree.java) | Medium |
 
 ## Tree Map and Set
 | ID | Question | Solution | Difficulty |
