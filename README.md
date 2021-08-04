@@ -50,6 +50,7 @@ This repo records my solutions in leetcode practice process. Also, I organize th
 ## Dynamic Programming
 | ID | Question | Solution | Difficulty |
 | -- | -------- | -------- | ---------- |
+| 139 | [Word Break](https://leetcode.com/problems/word-break/) | [Java](solutions/WordBreak_DP.java) | Medium |
 | 264 | [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) | [Java](solutions/UglyNumberII.java) | Medium |
 | 313 | [Super Ugly Number](https://leetcode.com/problems/super-ugly-number/) | [Java](solutions/SuperUglyNumber.java) | Medium |
 
@@ -62,6 +63,7 @@ This repo records my solutions in leetcode practice process. Also, I organize th
 | ID | Question | Solution | Difficulty |
 | -- | -------- | -------- | ---------- |
 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/solution/) | [Java](solutions/LongestConsecutiveSequence.java) | Medium |
+| 139 | [Word Break](https://leetcode.com/problems/word-break/) | [Java](solutions/WordBreak_HTS.java) | Medium |
 
 ## Kadane's Algorithm
 | ID | Question | Solution | Difficulty |
