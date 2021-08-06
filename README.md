@@ -3,6 +3,7 @@ This repo records my solutions in leetcode practice process. Also, I organize th
 
 ## Patterns
   - [Binary Search](#binary-search)
+  - [Bit Manipulation](#bit-manipulation)
   - [Bucket Sort](#bucket-sort)
   - [DFS and BFS](#dfs-and-bfs)
   - [Divide and Conquer](#divide-and-conquer)
@@ -29,6 +30,11 @@ This repo records my solutions in leetcode practice process. Also, I organize th
 | 154 | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [Java](solutions/FindMinimuminRotatedSortedArrayII.java) | Hard |
 | 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [Java](solutions/FindPeakElement.java) | Medium |
 | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [Java](solutions/MinimumSizeSubarraySum_BS.java) | Medium | 
+
+## Bit Manipulation
+| ID | Question | Solution | Difficulty |
+| -- | -------- | -------- | ---------- |
+| 421 | [Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/) | [Java](solutions/MaximumXORofTwoNumbersinanArray_BM.java) | Medium |
 
 ## Bucket Sort
 | ID | Question | Solution | Difficulty |
@@ -105,6 +111,7 @@ This repo records my solutions in leetcode practice process. Also, I organize th
 | 211 | [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/) | [Java](solutions/DesignAddandSearchWordsDataStructure.java) | Medium |
 | 212 | [Word Search II](https://leetcode.com/problems/word-search-ii/) | [Java](solutions/WordSearchII.java) | Hard |
 | 336 | [Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/) | [Java](solutions/PalindromePairs_TRIE.java) | Hard |
+| 421 | [Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/) | [Java](solutions/MaximumXORofTwoNumbersinanArray_TRIE.java) | Medium |
 
 ## Tree Map and Set
 | ID | Question | Solution | Difficulty |
