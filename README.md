@@ -112,6 +112,7 @@ This repo records my solutions in leetcode practice process. Also, I organize th
 | 212 | [Word Search II](https://leetcode.com/problems/word-search-ii/) | [Java](solutions/WordSearchII.java) | Hard |
 | 336 | [Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/) | [Java](solutions/PalindromePairs_TRIE.java) | Hard |
 | 421 | [Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/) | [Java](solutions/MaximumXORofTwoNumbersinanArray_TRIE.java) | Medium |
+| 648 | [Replace Words](https://leetcode.com/problems/replace-words/) | [Java](solutions/ReplaceWords.java) | Medium |
 
 ## Tree Map and Set
 | ID | Question | Solution | Difficulty |
