@@ -87,6 +87,7 @@ This repo records my solutions in leetcode practice process. Also, I organize th
 | -- | -------- | -------- | ---------- |
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Java](solutions/AddTwoNumbers.java) | Medium |
 | 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Java](solutions/SwapNodesinPairs.java) | Medium |
+| 61 | [Rotate List](https://leetcode.com/problems/rotate-list/) | [Java](solutions/RotateList.java) | Medium |
 
 ## Object Oriented Design
 | ID | Question | Solution | Difficulty |
