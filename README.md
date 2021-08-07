@@ -11,6 +11,7 @@ This repo records my solutions in leetcode practice process. Also, I organize th
   - [Graph](#graph)
   - [Hash Table and Set](#hash-table-and-set)
   - [Kadane's Algorithm](#kadanes-algorithm)
+  - [Linked List](#linked-list)
   - [Object Oriented Design](#object-oriented-design)
   - [Priority Queue](#priority-queue)
   - [Quick Select](#quick-select)
@@ -79,6 +80,11 @@ This repo records my solutions in leetcode practice process. Also, I organize th
 | -- | -------- | -------- | ---------- |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Java](solutions/MaximumSubarray.java) | Easy |
 | 1191 | [K-Concatenation Maximum Sum](https://leetcode.com/problems/k-concatenation-maximum-sum/) | [Java](solutions/KConcatenationMaximumSum.java) | Medium |
+
+## Linked List
+| ID | Question | Solution | Difficulty |
+| -- | -------- | -------- | ---------- |
+| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Java](solutions/AddTwoNumbers.java) | Medium |
 
 ## Object Oriented Design
 | ID | Question | Solution | Difficulty |
