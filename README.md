@@ -72,6 +72,7 @@ This repo records my solutions in leetcode practice process. Also, I organize th
 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/solution/) | [Java](solutions/LongestConsecutiveSequence.java) | Medium |
 | 139 | [Word Break](https://leetcode.com/problems/word-break/) | [Java](solutions/WordBreak_HTS.java) | Medium |
 | 336 | [Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/) | [Java](solutions/PalindromePairs_HTS.java) | Hard |
+| 676 | [Implement Magic Dictionary](https://leetcode.com/problems/implement-magic-dictionary/) | [Java](solutions/ImplementMagicDictionary_HTS.java) | Medium |
 
 ## Kadane's Algorithm
 | ID | Question | Solution | Difficulty |
@@ -113,6 +114,7 @@ This repo records my solutions in leetcode practice process. Also, I organize th
 | 336 | [Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/) | [Java](solutions/PalindromePairs_TRIE.java) | Hard |
 | 421 | [Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/) | [Java](solutions/MaximumXORofTwoNumbersinanArray_TRIE.java) | Medium |
 | 648 | [Replace Words](https://leetcode.com/problems/replace-words/) | [Java](solutions/ReplaceWords.java) | Medium |
+| 676 | [Implement Magic Dictionary](https://leetcode.com/problems/implement-magic-dictionary/) | [Java](solutions/ImplementMagicDictionary_TRIE.java) | Medium |
 
 ## Tree Map and Set
 | ID | Question | Solution | Difficulty |
