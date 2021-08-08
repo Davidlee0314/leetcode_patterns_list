@@ -89,6 +89,7 @@ This repo records my solutions in leetcode practice process. Also, I organize th
 | 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Java](solutions/SwapNodesinPairs.java) | Medium |
 | 25 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | [Java](solutions/ReverseNodesink-Group.java) | Hard |
 | 61 | [Rotate List](https://leetcode.com/problems/rotate-list/) | [Java](solutions/RotateList.java) | Medium |
+| 82 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [Java](solutions/RemoveDuplicatesfromSortedListII.java) | Medium |
 
 ## Object Oriented Design
 | ID | Question | Solution | Difficulty |
