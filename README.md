@@ -146,7 +146,8 @@ This repo records my solutions in leetcode practice process. Also, I organize th
 ## Two Pointers
 | ID | Question | Solution | Difficulty |
 | -- | -------- | -------- | ---------- |
-| 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Java](solutions/RemoveNthNodeFromEndofList.java) | Medium | 
+| 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Java](solutions/RemoveNthNodeFromEndofList.java) | Medium |
+| 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [Java](solutions/LinkedListCycleII.java) | Medium |
 
 ## Union Find 
 | ID | Question | Solution | Difficulty |
