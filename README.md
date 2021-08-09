@@ -18,6 +18,7 @@ This repo records my solutions in leetcode practice process. Also, I organize th
   - [Sliding Window](#sliding-window)
   - [Trie](#trie)
   - [Tree Map and Set](#tree-map-and-set)
+  - [Tree Traversal](#tree-traversal)
   - [Two Pointers](#two-pointers)
   - [Union Find](#union-find)
 
@@ -55,7 +56,8 @@ This repo records my solutions in leetcode practice process. Also, I organize th
 | -- | -------- | -------- | ---------- |
 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Java](solutions/MedianofTwoSortedArrays.java) | Hard |
 | 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Java](solutions/MergekSortedLists_D&C.java) | Hard |
-| 190 | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | [Java](solutions/ConvertSortedListtoBinarySearchTree.java) | Medium |
+| 114 | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [Java](solutions/FlattenBinaryTreetoLinkedList_D&C.java) | Medium |
+| 190 | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | [Java](solutions/ConvertSortedListtoBinarySearchTree.java) | Medium 
 
 ## Dynamic Programming
 | ID | Question | Solution | Difficulty |
@@ -134,6 +136,12 @@ This repo records my solutions in leetcode practice process. Also, I organize th
 | ID | Question | Solution | Difficulty |
 | -- | -------- | -------- | ---------- |
 | 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [Java](solutions/SlidingWindowMaximum_TMS.java) | Hard |
+
+## Tree Traversal
+| ID | Question | Solution | Difficulty |
+| -- | -------- | -------- | ---------- |
+| 114 | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [Java](solutions/FlattenBinaryTreetoLinkedList_TT.java) | Medium |
+
 
 ## Two Pointers
 | ID | Question | Solution | Difficulty |
