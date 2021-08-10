@@ -51,6 +51,7 @@ This repo records my solutions in leetcode practice process. Also, I organize th
 | 130 | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | [Java](solutions/SurroundedRegions.java) | Medium |
 | 133 | [Clone Graph](https://leetcode.com/problems/clone-graph/) | [Java](solutions/CloneGraph.java) | Medium |
 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Java](solutions/NumberofIslands_BFS.java) | Medium |
+| 329 | [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [Java](solutions/LongestIncreasingPathinaMatrix.java) | Hard |
 | 684 | [Redundant Connection](https://leetcode.com/problems/redundant-connection/) | [Java](solutions/RedundantConnection_DFS.java) | Medium |
 
 ## Divide and Conquer
