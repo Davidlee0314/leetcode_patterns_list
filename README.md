@@ -127,6 +127,7 @@ This repo records my solutions in leetcode practice process. Also, I organize th
 | ID | Question | Solution | Difficulty |
 | -- | -------- | -------- | ---------- |
 | 207 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | [Java](solutions/CourseSchedule.java) | Medium |
+| 210 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | [Java](solutions/CourseScheduleII.java) | Medium |
 
 ## Trie
 | ID | Question | Solution | Difficulty |
