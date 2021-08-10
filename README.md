@@ -71,6 +71,7 @@ This repo records my solutions in leetcode practice process. Also, I organize th
 ## Graph
 | ID | Question | Solution | Difficulty |
 | -- | -------- | -------- | ---------- |
+| 310 | [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/) | [Java](solutions/MinimumHeightTrees.java) | Medium |
 | 399 | [Evaluate Division](https://leetcode.com/problems/evaluate-division/) | [Java](solutions/EvaluateDivision.java) | Medium |
 
 ## Hash Table and Set
