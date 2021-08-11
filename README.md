@@ -52,6 +52,7 @@ This repo records my solutions in leetcode practice process. Also, I organize th
 | 133 | [Clone Graph](https://leetcode.com/problems/clone-graph/) | [Java](solutions/CloneGraph.java) | Medium |
 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Java](solutions/NumberofIslands_BFS.java) | Medium |
 | 329 | [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [Java](solutions/LongestIncreasingPathinaMatrix.java) | Hard |
+| 547 | [Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | [Java](solutions/NumberofProvinces_BFS.java) | Medium |
 | 684 | [Redundant Connection](https://leetcode.com/problems/redundant-connection/) | [Java](solutions/RedundantConnection_DFS.java) | Medium |
 
 ## Divide and Conquer
@@ -164,5 +165,6 @@ This repo records my solutions in leetcode practice process. Also, I organize th
 | ID | Question | Solution | Difficulty |
 | -- | -------- | -------- | ---------- |
 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Java](solutions/NumberofIslands_UF.java) | Medium |
+| 547 | [Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | [Java](solutions/NumberofIslands_UF.java) | Medium |
 | 684 | [Redundant Connection](https://leetcode.com/problems/redundant-connection/) | [Java](solutions/RedundantConnection_UF.java) | Medium |
 | 685 | [Redundant Connection II](https://leetcode.com/problems/redundant-connection-ii/) | [Java](solutions/RedundantConnectionII.java) | Hard |
