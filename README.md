@@ -169,3 +169,4 @@ This repo records my solutions in leetcode practice process. Also, I organize th
 | 547 | [Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | [Java](solutions/NumberofIslands_UF.java) | Medium |
 | 684 | [Redundant Connection](https://leetcode.com/problems/redundant-connection/) | [Java](solutions/RedundantConnection_UF.java) | Medium |
 | 685 | [Redundant Connection II](https://leetcode.com/problems/redundant-connection-ii/) | [Java](solutions/RedundantConnectionII.java) | Hard |
+| 765 | [Couples Holding Hands](https://leetcode.com/problems/couples-holding-hands/) | [Java](solutions/CouplesHoldingHands.java) | Hard |
