@@ -54,6 +54,7 @@ This repo records my solutions in leetcode practice process. Also, I organize th
 | 329 | [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [Java](solutions/LongestIncreasingPathinaMatrix.java) | Hard |
 | 547 | [Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | [Java](solutions/NumberofProvinces_BFS.java) | Medium |
 | 684 | [Redundant Connection](https://leetcode.com/problems/redundant-connection/) | [Java](solutions/RedundantConnection_DFS.java) | Medium |
+| 743 | [Network Delay Time](https://leetcode.com/problems/network-delay-time/) | [Java](solutions/NetworkDelayTime.java) | Medium |
 
 ## Divide and Conquer
 | ID | Question | Solution | Difficulty |
