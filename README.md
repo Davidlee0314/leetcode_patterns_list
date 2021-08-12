@@ -134,6 +134,7 @@ This repo records my solutions in leetcode practice process. Also, I organize th
 | ID | Question | Solution | Difficulty |
 | -- | -------- | -------- | ---------- |
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Java](solutions/LongestPalindromicSubstring.java) | Medium |
+| 6 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [Java](solutions/ZigZagConversion.java) | Medium |
 
 ## Topological Sort
 | ID | Question | Solution | Difficulty |
