@@ -81,6 +81,7 @@ This repo records my solutions in leetcode practice process. Also, I organize th
 ## Hash Table and Set
 | ID | Question | Solution | Difficulty |
 | -- | -------- | -------- | ---------- |
+| 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Java](solutions/LongestSubstringWithoutRepeatingCharacters.java) | Medium |
 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/solution/) | [Java](solutions/LongestConsecutiveSequence.java) | Medium |
 | 139 | [Word Break](https://leetcode.com/problems/word-break/) | [Java](solutions/WordBreak_HTS.java) | Medium |
 | 336 | [Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/) | [Java](solutions/PalindromePairs_HTS.java) | Hard |
