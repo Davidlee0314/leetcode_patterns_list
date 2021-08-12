@@ -16,6 +16,7 @@ This repo records my solutions in leetcode practice process. Also, I organize th
   - [Priority Queue](#priority-queue)
   - [Quick Select](#quick-select)
   - [Sliding Window](#sliding-window)
+  - [String](#string)
   - [Topological Sort](#topological-sort)
   - [Trie](#trie)
   - [Tree Map and Set](#tree-map-and-set)
@@ -128,6 +129,11 @@ This repo records my solutions in leetcode practice process. Also, I organize th
 | -- | -------- | -------- | ---------- |
 | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [Java](solutions/MinimumSizeSubarraySum_SW.java) | Medium |
 | 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [Java](solutions/SlidingWindowMaximum_SW.java) | Hard | 
+
+## String
+| ID | Question | Solution | Difficulty |
+| -- | -------- | -------- | ---------- |
+| 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Java](solutions/LongestPalindromicSubstring.java) | Medium |
 
 ## Topological Sort
 | ID | Question | Solution | Difficulty |
