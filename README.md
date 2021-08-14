@@ -130,8 +130,10 @@ This repo records my solutions in leetcode practice process. Also, I organize th
 ## Sliding Window
 | ID | Question | Solution | Difficulty |
 | -- | -------- | -------- | ---------- |
+| 76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [Java](solutions/MinimumWindowSubstring.java) | Hard |
 | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [Java](solutions/MinimumSizeSubarraySum_SW.java) | Medium |
-| 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [Java](solutions/SlidingWindowMaximum_SW.java) | Hard | 
+| 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [Java](solutions/SlidingWindowMaximum_SW.java) | Hard |
+
 
 ## String
 | ID | Question | Solution | Difficulty |
