@@ -61,7 +61,7 @@ This repo records my solutions in leetcode practice process. Also, I organize th
 | ID | Question | Solution | Difficulty |
 | -- | -------- | -------- | ---------- |
 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Java](solutions/MedianofTwoSortedArrays.java) | Hard |
-| 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Java](solutions/GenerateParentheses.java) | Medium |
+| 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Java](solutions/GenerateParentheses_D&C.java) | Medium |
 | 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Java](solutions/MergekSortedLists_D&C.java) | Hard |
 | 114 | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [Java](solutions/FlattenBinaryTreetoLinkedList_D&C.java) | Medium |
 | 190 | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | [Java](solutions/ConvertSortedListtoBinarySearchTree.java) | Medium 
@@ -69,6 +69,7 @@ This repo records my solutions in leetcode practice process. Also, I organize th
 ## Dynamic Programming
 | ID | Question | Solution | Difficulty |
 | -- | -------- | -------- | ---------- |
+| 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Java](solutions/GenerateParentheses_DP.java) | Medium |
 | 139 | [Word Break](https://leetcode.com/problems/word-break/) | [Java](solutions/WordBreak_DP.java) | Medium |
 | 264 | [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) | [Java](solutions/UglyNumberII.java) | Medium |
 | 313 | [Super Ugly Number](https://leetcode.com/problems/super-ugly-number/) | [Java](solutions/SuperUglyNumber.java) | Medium |
