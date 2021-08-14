@@ -135,6 +135,7 @@ This repo records my solutions in leetcode practice process. Also, I organize th
 | -- | -------- | -------- | ---------- |
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Java](solutions/LongestPalindromicSubstring.java) | Medium |
 | 6 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [Java](solutions/ZigZagConversion.java) | Medium |
+| 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Java](solutions/LetterCombinationsofaPhoneNumber.java) | Medium |
 
 ## Topological Sort
 | ID | Question | Solution | Difficulty |
