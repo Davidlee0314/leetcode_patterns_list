@@ -64,6 +64,7 @@ This repo records my solutions in leetcode practice process. Also, I organize th
 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Java](solutions/MedianofTwoSortedArrays.java) | Hard |
 | 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Java](solutions/GenerateParentheses_D&C.java) | Medium |
 | 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Java](solutions/MergekSortedLists_D&C.java) | Hard |
+| 38 | [Count and Say](https://leetcode.com/problems/count-and-say/) | [Java](solutions/CountandSay.java) | Medium |
 | 114 | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [Java](solutions/FlattenBinaryTreetoLinkedList_D&C.java) | Medium |
 | 190 | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | [Java](solutions/ConvertSortedListtoBinarySearchTree.java) | Medium 
 
