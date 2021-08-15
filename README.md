@@ -16,6 +16,7 @@ This repo records my solutions in leetcode practice process. Also, I organize th
   - [Priority Queue](#priority-queue)
   - [Quick Select](#quick-select)
   - [Sliding Window](#sliding-window)
+  - [Stakc and Queue](#stack-and-queue)
   - [String](#string)
   - [Topological Sort](#topological-sort)
   - [Trie](#trie)
@@ -70,6 +71,7 @@ This repo records my solutions in leetcode practice process. Also, I organize th
 | ID | Question | Solution | Difficulty |
 | -- | -------- | -------- | ---------- |
 | 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Java](solutions/GenerateParentheses_DP.java) | Medium |
+| 32 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | [Java](solutions/LongestValidParentheses_DP.java) | Hard |
 | 139 | [Word Break](https://leetcode.com/problems/word-break/) | [Java](solutions/WordBreak_DP.java) | Medium |
 | 264 | [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) | [Java](solutions/UglyNumberII.java) | Medium |
 | 313 | [Super Ugly Number](https://leetcode.com/problems/super-ugly-number/) | [Java](solutions/SuperUglyNumber.java) | Medium |
@@ -134,6 +136,10 @@ This repo records my solutions in leetcode practice process. Also, I organize th
 | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [Java](solutions/MinimumSizeSubarraySum_SW.java) | Medium |
 | 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [Java](solutions/SlidingWindowMaximum_SW.java) | Hard |
 
+## Stakc and Queue
+| ID | Question | Solution | Difficulty |
+| -- | -------- | -------- | ---------- |
+| 32 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | [Java](solutions/LongestValidParentheses_S&Q.java) | Hard |
 
 ## String
 | ID | Question | Solution | Difficulty |
