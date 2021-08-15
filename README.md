@@ -12,6 +12,7 @@ This repo records my solutions in leetcode practice process. Also, I organize th
   - [Hash Table and Set](#hash-table-and-set)
   - [Kadane's Algorithm](#kadanes-algorithm)
   - [Linked List](#linked-list)
+  - [Math](#math)
   - [Object Oriented Design](#object-oriented-design)
   - [Priority Queue](#priority-queue)
   - [Quick Select](#quick-select)
@@ -110,6 +111,11 @@ This repo records my solutions in leetcode practice process. Also, I organize th
 | 82 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [Java](solutions/RemoveDuplicatesfromSortedListII.java) | Medium |
 | 86 | [Partition List](https://leetcode.com/problems/partition-list/) | [Java](solutions/PartitionList.java) | Medium |
 | 92 | [Reverse Linked List II](Reverse Linked List II) | [Java](solutions/ReverseLinkedListII.java) | Medium | 
+
+## Math
+| ID | Question | Solution | Difficulty |
+| -- | -------- | -------- | ---------- |
+| 43 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | [Java](solutions/MultiplyStrings.java) | Medium |
 
 ## Object Oriented Design
 | ID | Question | Solution | Difficulty |
