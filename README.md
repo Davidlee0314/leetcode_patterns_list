@@ -185,6 +185,7 @@ This repo records my solutions in leetcode practice process. Also, I organize th
 ## Tree Traversal
 | ID | Question | Solution | Difficulty |
 | -- | -------- | -------- | ---------- |
+| 99 | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) | [Java](solutions/RecoverBinarySearchTree.java) | Medium |
 | 114 | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [Java](solutions/FlattenBinaryTreetoLinkedList_TT.java) | Medium |
 
 
