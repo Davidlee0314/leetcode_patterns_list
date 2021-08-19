@@ -67,8 +67,9 @@ This repo records my solutions in leetcode practice process. Also, I organize th
 | 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Java](solutions/MergekSortedLists_D&C.java) | Hard |
 | 38 | [Count and Say](https://leetcode.com/problems/count-and-say/) | [Java](solutions/CountandSay.java) | Medium |
 | 95 | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/) | [Java](solutions/UniqueBinarySearchTreesII.java) | Medium |
+| 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Java](solutions/ValidateBinarySearchTree.java) | Medium |
 | 114 | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [Java](solutions/FlattenBinaryTreetoLinkedList_D&C.java) | Medium |
-| 190 | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | [Java](solutions/ConvertSortedListtoBinarySearchTree.java) | Medium 
+| 190 | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | [Java](solutions/ConvertSortedListtoBinarySearchTree.java) | Medium |
 
 ## Dynamic Programming
 | ID | Question | Solution | Difficulty |
