@@ -75,6 +75,7 @@ This repo records my solutions in leetcode practice process. Also, I organize th
 | 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Java](solutions/GenerateParentheses_DP.java) | Medium |
 | 32 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | [Java](solutions/LongestValidParentheses_DP.java) | Hard |
 | 44 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | [Java](solutions/WildcardMatching.java) | Hard |
+| 96 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | [Java](solutions/UniqueBinarySearchTrees.java) | Medium |
 | 139 | [Word Break](https://leetcode.com/problems/word-break/) | [Java](solutions/WordBreak_DP.java) | Medium |
 | 264 | [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) | [Java](solutions/UglyNumberII.java) | Medium |
 | 313 | [Super Ugly Number](https://leetcode.com/problems/super-ugly-number/) | [Java](solutions/SuperUglyNumber.java) | Medium |
