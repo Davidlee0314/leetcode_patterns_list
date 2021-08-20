@@ -17,21 +17,17 @@ class Solution {
     /**
      * time O(n) space O(logn)
      */
+    private HashMap<Integer, Integer> map = new HashMap<>();
     public TreeNode buildTree(int[] preorder, int[] inorder) {
+        for(int i = 0; i < inorder.length; i++) map.put(inorder[i], i);
         return helper(preorder, inorder, 0, 0, preorder.length - 1);
     }
     private TreeNode helper(int[] preorder, int[] inorder, int preIndex, int start, int end){
         // base case the inorder [start, end] has no elements
         if(start > end) return null;
         
-        // from the start to end, check which index in inorder match the preorder[preIndex] node value
-        int index = 0;
-        for(int i = start; i <= end; i++){
-            if(preorder[preIndex] == inorder[i]){
-                index = i;
-                break;
-            }
-        }
+        // get the index in inorder match the preorder[preIndex] node value
+        int index = map.get(preorder[preIndex]);
         
         // the preorder[preIndex] is the root node
         TreeNode root = new TreeNode(preorder[preIndex]);
