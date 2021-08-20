@@ -68,6 +68,7 @@ This repo records my solutions in leetcode practice process. Also, I organize th
 | 38 | [Count and Say](https://leetcode.com/problems/count-and-say/) | [Java](solutions/CountandSay.java) | Medium |
 | 95 | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/) | [Java](solutions/UniqueBinarySearchTreesII.java) | Medium |
 | 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Java](solutions/ValidateBinarySearchTree.java) | Medium |
+| 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [Java](solutions/SameTree.java) | Easy |
 | 114 | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [Java](solutions/FlattenBinaryTreetoLinkedList_D&C.java) | Medium |
 | 190 | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | [Java](solutions/ConvertSortedListtoBinarySearchTree.java) | Medium |
 
