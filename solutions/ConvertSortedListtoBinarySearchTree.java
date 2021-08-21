@@ -33,6 +33,7 @@ class Solution {
     public TreeNode sortedListToBST(ListNode head) {
         if(head == null) return null;
         if(head.next == null) return new TreeNode(head.val);
+        
         ListNode fast = head, slow = head, prev = null;
         while(fast != null && fast.next != null){
             prev = slow;
