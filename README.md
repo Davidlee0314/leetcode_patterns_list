@@ -17,7 +17,7 @@ This repo records my solutions in leetcode practice process. Also, I organize th
   - [Priority Queue](#priority-queue)
   - [Quick Select](#quick-select)
   - [Sliding Window](#sliding-window)
-  - [Stakc and Queue](#stack-and-queue)
+  - [Stack and Queue](#stack-and-queue)
   - [String](#string)
   - [Topological Sort](#topological-sort)
   - [Trie](#trie)
@@ -152,7 +152,7 @@ This repo records my solutions in leetcode practice process. Also, I organize th
 | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [Java](solutions/MinimumSizeSubarraySum_SW.java) | Medium |
 | 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [Java](solutions/SlidingWindowMaximum_SW.java) | Hard |
 
-## Stakc and Queue
+## Stack and Queue
 | ID | Question | Solution | Difficulty |
 | -- | -------- | -------- | ---------- |
 | 32 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | [Java](solutions/LongestValidParentheses_S&Q.java) | Hard |
