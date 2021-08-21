@@ -194,6 +194,7 @@ This repo records my solutions in leetcode practice process. Also, I organize th
 | 103 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [Java](solutions/BinaryTreeZigzagLevelOrderTraversal.java) | Medium |
 | 105 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [java](solutions/ConstructBinaryTreefromPreorderandInorderTraversal.java) | Medium |
 | 114 | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [Java](solutions/FlattenBinaryTreetoLinkedList_TT.java) | Medium |
+| 117 | [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) | [Java](solutions/PopulatingNextRightPointersinEachNodeII.java) | Medium |
 
 
 ## Two Pointers
