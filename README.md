@@ -200,6 +200,7 @@ This repo records my solutions in leetcode practice process. Also, I organize th
 | 114 | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [Java](solutions/FlattenBinaryTreetoLinkedList_TT.java) | Medium |
 | 117 | [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) | [Java](solutions/PopulatingNextRightPointersinEachNodeII.java) | Medium |
 | 173 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | [Java](solutions/BinarySearchTreeIterator.java) | Medium |
+| 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [Java](solutions/KthSmallestElementinaBST.java) | Medium |
 
 
 ## Two Pointers
