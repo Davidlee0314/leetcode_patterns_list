@@ -76,6 +76,7 @@ This repo records my solutions in leetcode practice process. Also, I organize th
 | 116 | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [Java](solutions/PopulatingNextRightPointersinEachNode.java) | Medium |
 | 124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [Java](solutions/BinaryTreeMaximumPathSum.java) | Hard |
 | 129 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | [Java](solutions/SumRoottoLeafNumbers.java) | Medium |
+| 222 | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) | [Java](solutions/CountCompleteTreeNodes.java) | Medium |
 
 ## Dynamic Programming
 | ID | Question | Solution | Difficulty |
