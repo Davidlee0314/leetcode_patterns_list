@@ -74,6 +74,7 @@ This repo records my solutions in leetcode practice process. Also, I organize th
 | 112 | [Path Sum](https://leetcode.com/problems/path-sum/submissions/) | [Java](solutions/PathSum.java) | Easy |
 | 114 | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [Java](solutions/FlattenBinaryTreetoLinkedList_D&C.java) | Medium |
 | 116 | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [Java](solutions/PopulatingNextRightPointersinEachNode.java) | Medium |
+| 124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [Java](solutions/BinaryTreeMaximumPathSum.java) | Hard |
 
 ## Dynamic Programming
 | ID | Question | Solution | Difficulty |
