@@ -190,6 +190,7 @@ This repo records my solutions in leetcode practice process. Also, I organize th
 ## Tree Traversal
 | ID | Question | Solution | Difficulty |
 | -- | -------- | -------- | ---------- |
+| 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Java](solutions/BinaryTreeInorderTraversal.java) | Easy |
 | 99 | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) | [Java](solutions/RecoverBinarySearchTree.java) | Medium |
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Java](solutions/BinaryTreeLevelOrderTraversal.java) | Medium |
 | 103 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [Java](solutions/BinaryTreeZigzagLevelOrderTraversal.java) | Medium |
