@@ -29,6 +29,7 @@ This repo records my solutions in leetcode practice process. Also, I organize th
 ## Binary Search
 | ID | Question | Solution | Difficulty |
 | -- | -------- | -------- | ---------- |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Java](solutions/TwoSum_BS.java) | Easy | 
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Java](solutions/SearchinRotatedSortedArray.java) | Medium |
 | 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Java](solutions/FindFirstandLastPositionofElementinSortedArray.java) | Medium |
 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Java](solutions/Searcha2DMatrix.java) | Medium |
@@ -99,6 +100,7 @@ This repo records my solutions in leetcode practice process. Also, I organize th
 ## Hash Table and Set
 | ID | Question | Solution | Difficulty |
 | -- | -------- | -------- | ---------- |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Java](solutions/TwoSum_HTS.java) | Easy | 
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Java](solutions/LongestSubstringWithoutRepeatingCharacters.java) | Medium |
 | 30 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | [Java](solutions/SubstringwithConcatenationofAllWords.java) | Hard |
 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/solution/) | [Java](solutions/LongestConsecutiveSequence.java) | Medium |
