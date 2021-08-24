@@ -2,6 +2,7 @@
 This repo records my solutions in leetcode practice process. Also, I organize the patterns out to structurize my understanding.
 
 ## Patterns
+  - [Arrays](#arrays)
   - [Binary Search](#binary-search)
   - [Bit Manipulation](#bit-manipulation)
   - [Bucket Sort](#bucket-sort)
@@ -25,6 +26,11 @@ This repo records my solutions in leetcode practice process. Also, I organize th
   - [Tree Traversal](#tree-traversal)
   - [Two Pointers](#two-pointers)
   - [Union Find](#union-find)
+
+## Arrays
+| ID | Question | Solution | Difficulty |
+| -- | -------- | -------- | ---------- |
+| 31 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | [Java](solutions/NextPermutation.java) | Medium |
 
 ## Binary Search
 | ID | Question | Solution | Difficulty |
