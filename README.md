@@ -123,7 +123,7 @@ This repo records my solutions in leetcode practice process. Also, I organize th
 | 61 | [Rotate List](https://leetcode.com/problems/rotate-list/) | [Java](solutions/RotateList.java) | Medium |
 | 82 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [Java](solutions/RemoveDuplicatesfromSortedListII.java) | Medium |
 | 86 | [Partition List](https://leetcode.com/problems/partition-list/) | [Java](solutions/PartitionList.java) | Medium |
-| 92 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)) | [Java](solutions/ReverseLinkedListII.java) | Medium | 
+| 92 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [Java](solutions/ReverseLinkedListII.java) | Medium | 
 
 ## Math
 | ID | Question | Solution | Difficulty |
