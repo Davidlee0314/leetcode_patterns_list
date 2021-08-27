@@ -3,6 +3,7 @@ This repo records my solutions in leetcode practice process. Also, I organize th
 
 ## Patterns
   - [Arrays](#arrays)
+  - [Backtrack](#backtrack)
   - [Binary Search](#binary-search)
   - [Bit Manipulation](#bit-manipulation)
   - [Bucket Sort](#bucket-sort)
@@ -31,6 +32,12 @@ This repo records my solutions in leetcode practice process. Also, I organize th
 | ID | Question | Solution | Difficulty |
 | -- | -------- | -------- | ---------- |
 | 31 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | [Java](solutions/NextPermutation.java) | Medium |
+
+## Backtrack
+| ID | Question | Solution | Difficulty |
+| -- | -------- | -------- | ---------- |
+| 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | [Java](solutions/CombinationSum.java) | Medium |
+| 40 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | [Java](solutions/CombinationSumII.java) | Medium |
 
 ## Binary Search
 | ID | Question | Solution | Difficulty |
