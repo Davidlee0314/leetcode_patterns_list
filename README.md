@@ -175,6 +175,7 @@ This repo records my solutions in leetcode practice process. Also, I organize th
 | ID | Question | Solution | Difficulty |
 | -- | -------- | -------- | ---------- |
 | 32 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | [Java](solutions/LongestValidParentheses_S&Q.java) | Hard |
+| 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Java](solutions/TrappingRainWater_S&Q.java) | Hard |
 
 ## String
 | ID | Question | Solution | Difficulty |
@@ -226,6 +227,7 @@ This repo records my solutions in leetcode practice process. Also, I organize th
 | 15 | [3sum](https://leetcode.com/problems/3sum/) | [Java](solutions/3Sum.java) | Medium |
 | 16 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | [Java](solutions/3SumClosest.java) | Medium |
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Java](solutions/RemoveNthNodeFromEndofList.java) | Medium |
+| 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Java](solutions/TrappingRainWater_TP.java) | Hard |
 | 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [Java](solutions/LinkedListCycleII.java) | Medium |
 
 ## Union Find 
