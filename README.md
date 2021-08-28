@@ -32,6 +32,7 @@ This repo records my solutions in leetcode practice process. Also, I organize th
 | ID | Question | Solution | Difficulty |
 | -- | -------- | -------- | ---------- |
 | 31 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | [Java](solutions/NextPermutation.java) | Medium |
+| 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [Java](solutions/FirstMissingPositive.java) | Hard |
 
 ## Backtrack
 | ID | Question | Solution | Difficulty |
