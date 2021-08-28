@@ -66,6 +66,7 @@ This repo records my solutions in leetcode practice process. Also, I organize th
 ## DFS and BFS
 | ID | Question | Solution | Difficulty |
 | -- | -------- | -------- | ---------- |
+| 45 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [Java](solutions/JumpGameII.java) | Medium |
 | 113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/) | [Java](solutions/PathSumII.java) | Medium |
 | 130 | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | [Java](solutions/SurroundedRegions.java) | Medium |
 | 133 | [Clone Graph](https://leetcode.com/problems/clone-graph/) | [Java](solutions/CloneGraph.java) | Medium |
