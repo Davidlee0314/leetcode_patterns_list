@@ -40,6 +40,7 @@ This repo records my solutions in leetcode practice process. Also, I organize th
 | 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | [Java](solutions/CombinationSum.java) | Medium |
 | 40 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | [Java](solutions/CombinationSumII.java) | Medium |
 | 46 | [Permutations](https://leetcode.com/problems/permutations/) | [Java](solutions/Permutations.java) | Medium |
+| 51 | [N-Queens](https://leetcode.com/problems/n-queens/) | [Java](solutions/N-Queens.java) | Hard |
 
 ## Binary Search
 | ID | Question | Solution | Difficulty |
