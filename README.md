@@ -34,6 +34,7 @@ This repo records my solutions in leetcode practice process. Also, I organize th
 | 31 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | [Java](solutions/NextPermutation.java) | Medium |
 | 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [Java](solutions/FirstMissingPositive.java) | Hard |
 | 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | [Java](solutions/JumpGame.java) | Medium |
+| 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Java](solutions/MergeIntervals.java) | Medium |
 
 ## Backtrack
 | ID | Question | Solution | Difficulty |
