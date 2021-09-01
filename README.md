@@ -36,6 +36,7 @@ This repo records my solutions in leetcode practice process. Also, I organize th
 | 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | [Java](solutions/JumpGame.java) | Medium |
 | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Java](solutions/MergeIntervals.java) | Medium |
 | 57 | [Insert Interval](https://leetcode.com/problems/insert-interval/) | [Java](solutions/InsertInterval.java) | Medium |
+| 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [Java](solutions/SetMatrixZeroes.java) | Medium |
 
 ## Backtrack
 | ID | Question | Solution | Difficulty |
