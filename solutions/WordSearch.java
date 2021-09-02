@@ -4,6 +4,8 @@ class Solution {
      * Trick: 
      * 1. Use board as the visited matrix
      * 2. Prune the search if the current one is true
+     * 
+     * time worst case O(m^2n^2) space O(1)
      */
     private int[][] dirs = {{1, 0}, {0, 1}, {-1, 0}, {0, -1}};
     private int m, n;
