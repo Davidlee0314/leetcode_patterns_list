@@ -237,6 +237,7 @@ This repo records my solutions in leetcode practice process. Also, I organize th
 | 16 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | [Java](solutions/3SumClosest.java) | Medium |
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Java](solutions/RemoveNthNodeFromEndofList.java) | Medium |
 | 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Java](solutions/TrappingRainWater_TP.java) | Hard |
+| 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | [Java](solutions/SortColors.java) | Medium |
 | 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [Java](solutions/LinkedListCycleII.java) | Medium |
 
 ## Union Find 
