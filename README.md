@@ -46,6 +46,7 @@ This repo records my solutions in leetcode practice process. Also, I organize th
 | 46 | [Permutations](https://leetcode.com/problems/permutations/) | [Java](solutions/Permutations.java) | Medium |
 | 51 | [N-Queens](https://leetcode.com/problems/n-queens/) | [Java](solutions/N-Queens.java) | Hard |
 | 77 | [Combinations](https://leetcode.com/problems/combinations/) | [Java](solutions/Combinations.java) | Medium |
+| 78 | [Subsets](https://leetcode.com/problems/subsets/) | [Java](solutions/Subsets.java) | Medium |
 
 ## Binary Search
 | ID | Question | Solution | Difficulty |
