@@ -48,6 +48,7 @@ This repo records my solutions in leetcode practice process. Also, I organize th
 | 51 | [N-Queens](https://leetcode.com/problems/n-queens/) | [Java](solutions/N-Queens.java) | Hard |
 | 77 | [Combinations](https://leetcode.com/problems/combinations/) | [Java](solutions/Combinations.java) | Medium |
 | 78 | [Subsets](https://leetcode.com/problems/subsets/) | [Java](solutions/Subsets.java) | Medium |
+| 90 | [Subsets II](https://leetcode.com/problems/subsets-ii/) | [Java](solutions/SubsetsII.java) | Medium |
 
 ## Binary Search
 | ID | Question | Solution | Difficulty |
