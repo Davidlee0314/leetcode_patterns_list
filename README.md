@@ -252,3 +252,4 @@ This repo records my solutions in leetcode practice process. Also, I organize th
 | 684 | [Redundant Connection](https://leetcode.com/problems/redundant-connection/) | [Java](solutions/RedundantConnection_UF.java) | Medium |
 | 685 | [Redundant Connection II](https://leetcode.com/problems/redundant-connection-ii/) | [Java](solutions/RedundantConnectionII.java) | Hard |
 | 765 | [Couples Holding Hands](https://leetcode.com/problems/couples-holding-hands/) | [Java](solutions/CouplesHoldingHands.java) | Hard |
+| 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/) | [Java](solutions/FindifPathExistsinGraph.java) | Easy |
