@@ -1,6 +1,7 @@
 class Solution {
     // time O(n) space O(n)
     public int longestValidParentheses(String s) {
+        // stack only contains the end of possible substring and '(' indices
         Deque<Integer> indices = new LinkedList<>();
         
         // there's a ')' before the string

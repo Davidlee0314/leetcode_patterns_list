@@ -11,8 +11,9 @@ class Solution {
                 // we update the dp array.
                 // And we also need to concat the current brackets
                 // with the previous ones
+                //                      0 1 2 3 4 5
                 // e.g. ()(()) with dp [0 2 0 0 2 4]
-                // but we want the count 4 turns into 6, so we plus
+                // at index 5,  we want the accumulate 4 to 6, so we plus
                 // dp[5 - 4] values, which is 2, the previous brackets counts
                 if(open > 0){
                     dp[i] = dp[i - 1] + 2;

@@ -132,6 +132,7 @@ This repo records my solutions in leetcode practice process. Also, I organize th
 | 30 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | [Java](solutions/SubstringwithConcatenationofAllWords.java) | Hard |
 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/solution/) | [Java](solutions/LongestConsecutiveSequence.java) | Medium |
 | 139 | [Word Break](https://leetcode.com/problems/word-break/) | [Java](solutions/WordBreak_HTS.java) | Medium |
+| 139 | [Maximum Size Subarray Equals K](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/) | [Java](solutions/MaximumSizeSubarrayEqualsK.java) | Medium |
 | 336 | [Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/) | [Java](solutions/PalindromePairs_HTS.java) | Hard |
 | 676 | [Implement Magic Dictionary](https://leetcode.com/problems/implement-magic-dictionary/) | [Java](solutions/ImplementMagicDictionary_HTS.java) | Medium |
 
