@@ -116,6 +116,7 @@ This repo records my solutions in leetcode practice process. Also, I organize th
 | 139 | [Word Break](https://leetcode.com/problems/word-break/) | [Java](solutions/WordBreak_DP.java) | Medium |
 | 264 | [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) | [Java](solutions/UglyNumberII.java) | Medium |
 | 313 | [Super Ugly Number](https://leetcode.com/problems/super-ugly-number/) | [Java](solutions/SuperUglyNumber.java) | Medium |
+| 718 | [Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/) | [Java](solutions/MaximumLengthofRepeatedSubarray.java) | Medium |
 
 ## Graph
 | ID | Question | Solution | Difficulty |
@@ -152,6 +153,7 @@ This repo records my solutions in leetcode practice process. Also, I organize th
 | 82 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [Java](solutions/RemoveDuplicatesfromSortedListII.java) | Medium |
 | 86 | [Partition List](https://leetcode.com/problems/partition-list/) | [Java](solutions/PartitionList.java) | Medium |
 | 92 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [Java](solutions/ReverseLinkedListII.java) | Medium | 
+| 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | [Java]() | Medium |
 
 ## Math
 | ID | Question | Solution | Difficulty |
