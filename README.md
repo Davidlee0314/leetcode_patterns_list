@@ -153,7 +153,7 @@ This repo records my solutions in leetcode practice process. Also, I organize th
 | 82 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [Java](solutions/RemoveDuplicatesfromSortedListII.java) | Medium |
 | 86 | [Partition List](https://leetcode.com/problems/partition-list/) | [Java](solutions/PartitionList.java) | Medium |
 | 92 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [Java](solutions/ReverseLinkedListII.java) | Medium | 
-| 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | [Java]() | Medium |
+| 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | [Java](solutions/MinStack.java) | Medium |
 
 ## Math
 | ID | Question | Solution | Difficulty |
